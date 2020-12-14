@@ -10,11 +10,13 @@ Done:
 	- Sign In & Sign Up
 	- Sign In 
 	- Sign Up
+	- Home Page
 	
 	
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YunaAnn/ArtAppFigmaDesign/master/SplashScreen.png" width="400" title="hover text">
-  <img src="https://raw.githubusercontent.com/YunaAnn/ArtAppFigmaDesign/master/SignIn&SignUp.png" width="400" title="hover text">
-  <img src="https://raw.githubusercontent.com/YunaAnn/ArtAppFigmaDesign/master/SignIn.png" width="400" title="hover text">
-  <img src="https://raw.githubusercontent.com/YunaAnn/ArtAppFigmaDesign/master/SignUp.png" width="400" title="hover text">
+  <img src="https://raw.githubusercontent.com/YunaAnn/ArtAppFigmaDesign/master/SplashScreen.png" width="200" title="hover text">
+  <img src="https://raw.githubusercontent.com/YunaAnn/ArtAppFigmaDesign/master/SignIn&SignUp.png" width="200" title="hover text">
+  <img src="https://raw.githubusercontent.com/YunaAnn/ArtAppFigmaDesign/master/SignIn.png" width="200" title="hover text">
+  <img src="https://raw.githubusercontent.com/YunaAnn/ArtAppFigmaDesign/master/SignUp.png" width="200" title="hover text">
+  <img src="https://raw.githubusercontent.com/YunaAnn/ArtAppFigmaDesign/master/HomePage.png" width="200" title="hover text">
   
