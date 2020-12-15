@@ -15,10 +15,10 @@ Done:
 	
 	
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YunaAnn/ArtAppFigmaDesign/master/SplashScreen.png" width="300" title="hover text">
-  <img src="https://raw.githubusercontent.com/YunaAnn/ArtAppFigmaDesign/master/SignIn&SignUp.png" width="300" title="hover text">
-  <img src="https://raw.githubusercontent.com/YunaAnn/ArtAppFigmaDesign/master/SignIn.png" width="300" title="hover text">
-  <img src="https://raw.githubusercontent.com/YunaAnn/ArtAppFigmaDesign/master/SignUp.png" width="300" title="hover text">
-  <img src="https://raw.githubusercontent.com/YunaAnn/ArtAppFigmaDesign/master/HomePage.png" width="300" title="hover text">
-  <img src="https://raw.githubusercontent.com/YunaAnn/ArtAppFigmaDesign/master/Messages.png" width="300" title="hover text">
+  <img src="https://raw.githubusercontent.com/YunaAnn/ArtAppFigmaDesign/master/SplashScreen.png" width="250" title="hover text">
+  <img src="https://raw.githubusercontent.com/YunaAnn/ArtAppFigmaDesign/master/SignIn&SignUp.png" width="250" title="hover text">
+  <img src="https://raw.githubusercontent.com/YunaAnn/ArtAppFigmaDesign/master/SignIn.png" width="250" title="hover text">
+  <img src="https://raw.githubusercontent.com/YunaAnn/ArtAppFigmaDesign/master/SignUp.png" width="250" title="hover text">
+  <img src="https://raw.githubusercontent.com/YunaAnn/ArtAppFigmaDesign/master/HomePage.png" width="250" title="hover text">
+  <img src="https://raw.githubusercontent.com/YunaAnn/ArtAppFigmaDesign/master/Messages.png" width="250" title="hover text">
   
